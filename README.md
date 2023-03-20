@@ -1,4 +1,4 @@
 # Test-repo
-test line1
-test line2
-test line3
+test line1\n
+test line2\n
+test line3\n
